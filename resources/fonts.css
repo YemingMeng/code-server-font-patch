@@ -47,3 +47,9 @@
   font-weight: 300 700;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'JetBrainsMono';
+  src: url('/ios-fonts/fonts/JetBrainsMono-Regular.ttf') format('truetype');
+  font-weight: 550;
+}
